@@ -2,6 +2,9 @@
 /*Note : The Given link ( https://restcountries.eu/rest/v2/all ) for Q2 and Q3 had some server side issues
         to resolve the issue the following link ('https://restcountries.com/v3/all')  has been used 
          newly used link was lacking in popuation data */ 
+// Name : Dhananjay Patil
+// Batch: B28
+
 console.log("Q1. How to compare two JSON have the same properties without order? var obj1 = { name: Person 1, age:5 }; var obj2 = { age:5, name: Person 1 };")
 
 var obj1 = { name: "Person 1", age:5 };
